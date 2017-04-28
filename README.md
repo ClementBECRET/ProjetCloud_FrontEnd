@@ -7,4 +7,3 @@ Liste des collaborateurs :
 - Adrien Cosson
 - Antoine Quinquenel
 - Amine Ouddiz
-test webhook
